@@ -1,0 +1,10 @@
+{
+  "name": "ts-website-boilerplate",
+  "version": "0.1.0",
+  "description": "TypeScriptLang website boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avkosme/ts-website-boilerplate"
+  },
+  "author": "Andrew Kostyuchenko"
+}
